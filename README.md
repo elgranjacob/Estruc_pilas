@@ -1,1 +1,2 @@
 # Estruc_pilas
+## El código es una estructura tipo pila que solo admite hasta 8 elementos máximo, en base a esa condicion solo mete y quita elementos mostrando cual se añade y cual se va. A cerca de los desbordamintos y sub desbordamintos estan excelentemente controlados con las sentencias else para que no marquen un error por lo que no hay nada de eso. Al final de la ejecución del programa solo quedaron dos elementos.
